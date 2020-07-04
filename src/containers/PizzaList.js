@@ -5,7 +5,6 @@ import Pizza from '../components/Pizza'
 class PizzaList extends Component {
 
   render() {
-
     return (
       <table className="table table-striped">
         <thead>
